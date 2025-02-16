@@ -23,7 +23,7 @@
 <meta property="og:description" content="1 - hmm...0 an-alch3mist/doc_0_0 development by creating an account on GitHub._ lorem ipsum dolor emit. " />
 ```
 
-### <code>the result(previwed on discord) for</code> <a href="https://an-alch3mist.github.io/meta_2_11/" target = "blank"><code>.io site with meta tag</code></a>
+### <code>the result(previewed on discord) for</code> <a href="https://an-alch3mist.github.io/meta_2_11/" target = "blank"><code>.io site with meta tag</code></a>
 ![image](https://github.com/user-attachments/assets/15eeaec9-05eb-46f6-af72-f141258e9b89)
 
 
